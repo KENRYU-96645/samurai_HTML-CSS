@@ -81,12 +81,11 @@ body {
     padding: auto;
     padding-top: 20px;
     clear: both;
-  display: grid;
-  grid-template-columns: 70vw 30vw;
+    display: grid;
+    grid-template-columns: 70vw 30vw;
 }
 /* ----------------- main ------------------------- */
 #main {
-    float: left;
     width: 95%;
     padding: 10px 30px 10px 10px;
 }
